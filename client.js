@@ -92,4 +92,4 @@ const capitalizeWords = function(input) {
 
 reverseString("abra kadabra alakazam");
 removeFalsyWithoutMutating(myArray);
-capitalizeWords("these were some lower case words")
+capitalizeWords("these were some lower case words");
